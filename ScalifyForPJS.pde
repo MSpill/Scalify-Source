@@ -1,5 +1,9 @@
 /* @pjs preload="/static/audio.png" */
 
+/* 
+This version will only work as input to processing.js since it incorporates some native JavaScript.
+*/
+
 String[] tuning = {"E", "A", "D", "G", "B", "E"};
 String root = "G";
 String scale = "Pentatonic";
